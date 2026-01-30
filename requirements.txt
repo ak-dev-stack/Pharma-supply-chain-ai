@@ -1,0 +1,7 @@
+gradio>=4.0.0
+fpdf
+nest_asyncio
+llama-index-core
+google-generativeai
+opencv-python-headless
+pymupdf
